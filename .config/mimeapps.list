@@ -1,0 +1,46 @@
+[Default Applications]
+x-scheme-handler/http=userapp-brave.desktop.desktop
+x-scheme-handler/https=userapp-brave.desktop.desktop
+x-scheme-handler/ftp=userapp-brave.desktop.desktop
+x-scheme-handler/chrome=userapp-brave.desktop.desktop
+text/html=userapp-brave.desktop.desktop
+application/x-extension-htm=userapp-brave.desktop.desktop
+application/x-extension-html=userapp-brave.desktop.desktop
+application/x-extension-shtml=userapp-brave.desktop.desktop
+application/xhtml+xml=userapp-brave.desktop.desktop
+application/x-extension-xhtml=userapp-brave.desktop.desktop
+application/x-extension-xht=userapp-brave.desktop.desktop
+image/jpeg=viewnior.desktop;gpicview.desktop;
+image/png=viewnior.desktop;gpicview.desktop;
+text/plain=mousepad.desktop
+x-scheme-handler/mailto=brave-browser.desktop
+message/rfc822=userapp-Thunderbird.desktop
+application/pdf=epdfview.desktop
+application/x-bittorrent=deluge.desktop
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/webcal=brave-browser.desktop
+x-scheme-handler/msteams=teams.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-C53N40.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-brave.desktop.desktop;
+x-scheme-handler/https=userapp-brave.desktop.desktop;
+x-scheme-handler/ftp=userapp-brave.desktop.desktop;
+x-scheme-handler/chrome=userapp-brave.desktop.desktop;
+text/html=userapp-brave.desktop.desktop;
+application/x-extension-htm=userapp-brave.desktop.desktop;
+application/x-extension-html=userapp-brave.desktop.desktop;
+application/x-extension-shtml=userapp-brave.desktop.desktop;
+application/xhtml+xml=userapp-brave.desktop.desktop;
+application/x-extension-xhtml=userapp-brave.desktop.desktop;
+application/x-extension-xht=userapp-brave.desktop.desktop;
+image/jpeg=viewnior.desktop;gpicview.desktop;
+image/png=viewnior.desktop;gpicview.desktop;
+text/plain=mousepad.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird.desktop;
+message/rfc822=userapp-Thunderbird.desktop;
+application/pdf=brave-browser.desktop;epdfview.desktop;
+application/x-bittorrent=deluge.desktop;
+application/octet-stream=mousepad.desktop;
+application/json=mousepad.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-C53N40.desktop;
